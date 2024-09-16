@@ -10,7 +10,8 @@
   <img align="center" alt= "Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
   <img align="center" alt="Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
   
 </div><br>
 
